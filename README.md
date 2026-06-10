@@ -2,9 +2,11 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing Zepto product and inventory data using SQL. The objective of the project is to perform data exploration, cleaning, and business analysis to generate meaningful insights related to pricing, discounts, inventory, and product categories.
+This project focuses on analyzing Zepto product and inventory data using SQL. The objective of the project is to perform data exploration, data cleaning, and business analysis to generate meaningful insights related to pricing, discounts, inventory, and product categories.
 
-The project demonstrates practical SQL skills commonly used in Data Analyst roles.
+This project demonstrates practical SQL skills commonly used in Data Analyst roles.
+
+---
 
 ## 🛠️ Tools & Technologies Used
 
@@ -12,6 +14,8 @@ The project demonstrates practical SQL skills commonly used in Data Analyst role
 * SQL
 * CSV Dataset
 * GitHub
+
+---
 
 ## 📂 Dataset Information
 
@@ -26,9 +30,11 @@ The dataset contains information about:
 * Product Weight
 * Stock Availability
 
+---
+
 ## 🔍 SQL Operations Performed
 
-1. Data Exploration
+### Data Exploration
 
 * Total row count
 * Sample data analysis
@@ -36,13 +42,13 @@ The dataset contains information about:
 * Unique category identification
 * Stock availability analysis
 
-2. Data Cleaning
+### Data Cleaning
 
 * Removed invalid product prices
 * Converted paise values into rupees
 * Checked duplicate products
 
-3.  Business Analysis
+### Business Analysis
 
 * Top discounted products
 * High-value out-of-stock products
@@ -53,12 +59,16 @@ The dataset contains information about:
 * Product segmentation by weight
 * Inventory weight analysis
 
+---
+
 ## 📊 Key Insights
 
 * Certain product categories offered significantly higher discounts.
 * Several premium products were unavailable despite high demand potential.
 * Revenue contribution varied across categories.
 * Bulk products provided better pricing efficiency per gram.
+
+---
 
 ## 🧠 SQL Concepts Used
 
@@ -71,9 +81,10 @@ The dataset contains information about:
 * Aggregate Functions
 * Data Cleaning Techniques
 
+---
+
 ## 📁 Project Structure
 
-```bash
 Zepto-SQL-Project/
 │
 ├── dataset/
@@ -81,7 +92,8 @@ Zepto-SQL-Project/
 ├── screenshots/
 ├── insights.txt
 └── README.md
-```
+
+---
 
 ## 🚀 Future Improvements
 
@@ -89,7 +101,9 @@ Zepto-SQL-Project/
 * Advanced SQL Window Functions
 * Interactive Data Visualization
 * Sales Trend Analysis
-* 
+
+---
+
 ## 👩‍💻 Author
 
 Sonal Sawant
